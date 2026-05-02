@@ -18,4 +18,9 @@
 Полученные сообщения (их там много, не влезает, увы)
 <img width="300" height="502" alt="image" src="https://github.com/user-attachments/assets/b81c0c8f-4150-4792-9e72-cbb62edd9e5a" />
 <br>
-А дальше пошли технические шоколадки.
+Создали нового юзера
+<img width="415" height="111" alt="image" src="https://github.com/user-attachments/assets/8fe99fe5-6a26-4cb9-9fa9-99c4fa648915" />
+<br>
+Уведомления ассинхронно приходят
+<img width="1757" height="216" alt="image" src="https://github.com/user-attachments/assets/7b380160-9b01-41a1-9cea-41407a521750" />
+
